@@ -1,10 +1,10 @@
 # Configs
 
-title: "Jekyll Profile"
+title: "George Panagopoulos Profile"
 name: "A Free Job Market Profile in Jekyll"
 email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
+url: "https://georgep5.github.io"
+baseurl: "/George-Panagopoulos-Profile"
 repository: "ECON-691/Jekyll-for-Job-Market"
 header:
   image: /assets/images/banner-husky.jpg
